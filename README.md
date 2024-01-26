@@ -5,8 +5,10 @@
 Bem-vindo à Calculadora Simples em JavaScript! Esta é uma aplicação de calculadora básica desenvolvida em JavaScript puro.
 
 ![image](https://github.com/taytaruga/portfolio/assets/157754515/3d590e9e-a4c0-46b2-ac53-33911892f90e)
-![image](https://github.com/taytaruga/portfolio/assets/157754515/3d590e9e-a4c0-46b2-ac53-33911892f90e)
-![image](https://github.com/taytaruga/portfolio/assets/157754515/3d590e9e-a4c0-46b2-ac53-33911892f90e)
+![image](https://github.com/taytaruga/portfolio/assets/157754515/3797b7e8-69f5-4d49-8f13-ae3b1b68ec48)
+![image](https://github.com/taytaruga/portfolio/assets/157754515/94f15e82-ee68-4eff-9213-a3560600e63f)
+
+
 
 
 ## Funcionalidades
@@ -23,7 +25,7 @@ Bem-vindo à Calculadora Simples em JavaScript! Esta é uma aplicação de calcu
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/taytaruga/portfolio.git
 
 ## Como Usar
 
